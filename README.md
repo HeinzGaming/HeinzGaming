@@ -1,6 +1,5 @@
 -Hello, i am HeinzGaming.
--I am in the Straystorm Studios Team as an Animator!
--To be more exact, Character Animator
+-I'm a Game-Artist in Trainee!
 
 <!---
 HeinzGaming/HeinzGaming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
